@@ -1,0 +1,71 @@
+.slide3{
+	background-image: url('../img/fullstack.png');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+.slide2{
+	background-image: url('../img/node.png');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slide1{
+	background-image: url('../img/angular.png');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.carousel-caption h1{
+	font-size: 5.4em;
+	font-family: 'Pacifico', cursive;
+	padding-bottom: .4em;
+}
+.carousel-caption p{
+	font-size: 2em;
+}
+
+#about-img{
+	border-style: solid;
+	border-color: black;
+	border-width: 5px;
+}
+
+#about h2{
+	border-bottom: 2px solid black;
+}
+
+p{
+	text-indent: 40px;
+}
+/*
+tr.ng-enter{
+	animation: bounceInUp 1s;
+}
+
+tr.ng-leave{
+	animation: bounceOut 1s;
+}*/
+
+.user-window{
+    border-left: 2px solid black;
+    height: 300px;
+}
+.username{
+    color: red;
+    font-weight: bold;
+}
+
+.chat-window{
+    height: 300px;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+ul {
+    list-style-type: none;
+}
